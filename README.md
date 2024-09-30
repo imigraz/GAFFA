@@ -18,7 +18,7 @@ conda create -n GAFFA python=3.10.14
 Install all needed Python packages:
 
 ```bash
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 
 ## 2. Usage
