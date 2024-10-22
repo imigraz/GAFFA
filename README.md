@@ -8,6 +8,10 @@ This is the official code repository for the paper:
 
 [https://doi.org/10.3390/bioengineering11090932](https://doi.org/10.3390/bioengineering11090932)
 
+## 0. License
+
+We used the medical data augmentation kit from https://github.com/christianpayer/MedicalDataAugmentationTool/tree/master. Hence, we also use the GNU General Public License v3.0.
+
 ## 1. Installation
 
 1. Move dataset images to `datasets/xray_hand/images`. Annotations are already included in the repository.
